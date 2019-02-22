@@ -6,5 +6,7 @@ Project NeuroTeen is a 5-year longitudinal fMRI study grant awarded by NIDA to D
 
 See Document entitlied, "NeuroTeen Wave 2 Study Summary" for extensive detail on this project. 
 
+Kathy's first edit
+
 
 ![neuroteen_logo_small](https://user-images.githubusercontent.com/47374922/52350589-e5773800-29f6-11e9-8c55-a38ddf88333d.jpg)
